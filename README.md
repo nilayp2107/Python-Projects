@@ -1,2 +1,2 @@
-# Web-development
-Projects created to show Web Developers' skills in me
+# Python-Projects
+Projects created to show Python skills in me
